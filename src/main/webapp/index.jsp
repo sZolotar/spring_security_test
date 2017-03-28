@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-Hello
+<h1>Hello Spring Security</h1>
 </body>
 </html>
